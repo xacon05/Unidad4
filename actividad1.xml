@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "libro.dtd">
+<biblioteca>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editorial>Editorial A</editorial>
+        <anio>1605</anio>
+        <isbn>978-3-16-148410-0</isbn>
+    </libro>
+    <libro>
+        <titulo>Cien Años de Soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <editorial>Editorial B</editorial>
+        <anio>1967</anio>
+        <isbn>978-0-14-118499-9</isbn>
+    </libro>
+    <libro>
+        <titulo>La Sombra del Viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <editorial>Editorial C</editorial>
+        <anio>2001</anio>
+        <isbn>978-0-06-112970-9</isbn>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <editorial>Editorial D</editorial>
+        <anio>1949</anio>
+        <isbn>978-0-452-28423-4</isbn>
+    </libro>
+    <libro>
+        <titulo>Orgullo y Prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <editorial>Editorial E</editorial>
+        <anio>1813</anio>
+        <isbn>978-0-19-953556-9</isbn>
+    </libro>
+    <libro>
+        <titulo>El Gran Gatsby</titulo>
+        <autor>F. Scott Fitzgerald</autor>
+        <editorial>Editorial F</editorial>
+        <anio>1925</anio>
+        <isbn>978-0-7432-7356-5</isbn>
+    </libro>
+    <libro>
+        <titulo>Crimen y Castigo</titulo>
+        <autor>Fiódor Dostoyevski</autor>
+        <editorial>Editorial G</editorial>
+        <anio>1866</anio>
+        <isbn>978-0-14-044913-6</isbn>
+    </libro>
+    <libro>
+        <titulo>La Odisea</titulo>
+        <autor>Homero</autor>
+        <editorial>Editorial H</editorial>
+        <anio>-800</anio>
+        <isbn>978-0-14-026886-7</isbn>
+    </libro>
+    <libro>
+        <titulo>Don Juan Tenorio</titulo>
+        <autor>José Zorrilla</autor>
+        <editorial>Editorial I</editorial>
+        <anio>1844</anio>
+        <isbn>978-84-376-0494-7</isbn>
+    </libro>
+    <libro>
+        <titulo>El Principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <editorial>Editorial J</editorial>
+        <anio>1943</anio>
+        <isbn>978-0-15-601219-5</isbn>
+    </libro>
+</biblioteca>
