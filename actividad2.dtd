@@ -1,5 +1,5 @@
 <!ELEMENT concesionario (coche+)>
-<!ELEMENT coche (codigo, marca, modelo, matricula, potencia, plazas, puertas)>
+<!ELEMENT coche (codigo, marca, modelo, matricula, potencia, plazas, puertas, anio, color, precio)>
 <!ELEMENT codigo (#PCDATA)>
 <!ELEMENT marca (#PCDATA)>
 <!ELEMENT modelo (#PCDATA)>
@@ -7,3 +7,6 @@
 <!ELEMENT potencia (#PCDATA)>
 <!ELEMENT plazas (#PCDATA)>
 <!ELEMENT puertas (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
