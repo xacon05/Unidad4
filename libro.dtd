@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT biblioteca (libro+)>
-    <!ELEMENT libro (titulo, autor, editorial, anio, isbn)>
-    <!ELEMENT titulo (#PCDATA)>
-    <!ELEMENT autor (#PCDATA)>
-    <!ELEMENT editorial (#PCDATA)>
-    <!ELEMENT anio (#PCDATA)>
-    <!ELEMENT isbn (#PCDATA)>
