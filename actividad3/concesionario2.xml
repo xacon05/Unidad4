@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario xmlns:xsi=" concesionario.xsd">
+
+  <coche>
+    <codigo>001</codigo>
+    <marca>Ford</marca>
+    <modelo>Focus</modelo>
+    <matricula>ABC1234</matricula>
+    <potencia>150</potencia>
+    <plazas>5</plazas>
+    <puertas>5</puertas>
+    <anio>2020</anio>
+    <color>Rojo</color>
+    <precio>20000</precio>
+  </coche>
+
+  <coche>
+    <codigo>002</codigo>
+    <marca>BMW</marca>
+    <modelo>X5</modelo>
+    <matricula>XYZ5678</matricula>
+    <potencia>300</potencia>
+    <plazas>5</plazas>
+    <puertas>5</puertas>
+    <anio>2022</anio>
+    <color>Negro</color>
+    <precio>50000</precio>
+  </coche>
+
+  <coche>
+    <codigo>003</codigo>
+    <marca>Honda</marca>
+    <modelo>Civic</modelo>
+    <matricula>DEF9101</matricula>
+    <potencia>180</potencia>
+    <plazas>4</plazas>
+    <puertas>4</puertas>
+    <anio>2021</anio>
+    <color>Azul</color>
+    <precio>25000</precio>
+  </coche>
+
+</concesionario>
