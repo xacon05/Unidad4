@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gestoría SYSTEM "gestoria.dtd">
+<gestoría>
+    <sede codigo="A1234567">
+        <nombreEmpleado>Juan Pérez</nombreEmpleado>
+        <fechaAlta>2024-12-02</fechaAlta>
+        <cliente codigo="AAA-112">
+            <descCliente>Insolvente</descCliente>
+            <numeroViviendas>2</numeroViviendas>
+            <vivienda ID="001">
+                <coste>100</coste>
+                <resumen>Producto muy frágil</resumen>
+                <plazo>10</plazo>
+            </vivienda>
+            <vivienda ID="002">
+                <coste>130</coste>
+                <resumen>Producto nada frágil</resumen>
+                <plazo>17</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+</gestoría>
