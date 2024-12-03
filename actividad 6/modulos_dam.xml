@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modulos>
+    <Modulo>
+        <NombreModulo>Programación</NombreModulo>
+        <Contenidos>
+            <Unidad>
+                <NombreUD>Introducción a la programación</NombreUD>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Conceptos básicos de programación: variables, estructuras de control, etc.</Descripcion>
+            </Unidad>
+            <Unidad>
+                <NombreUD>Algoritmos y estructuras de datos</NombreUD>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Estudio de algoritmos y estructuras de datos, como listas, pilas y colas.</Descripcion>
+            </Unidad>
+        </Contenidos>
+    </Modulo>
+    <Modulo>
+        <NombreModulo>Bases de Datos</NombreModulo>
+        <Contenidos>
+            <Unidad>
+                <NombreUD>Modelado de datos</NombreUD>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Creación de modelos de datos con diagramas entidad-relación.</Descripcion>
+            </Unidad>
+            <Unidad>
+                <NombreUD>Gestión de bases de datos</NombreUD>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Uso de sistemas gestores de bases de datos como MySQL o PostgreSQL.</Descripcion>
+            </Unidad>
+        </Contenidos>
+    </Modulo>
+</Modulos>

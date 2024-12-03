@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Definición de elementos -->
+    <xs:element name="Modulos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Modulo" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="NombreModulo" type="xs:string"/>
+                            <xs:element name="Contenidos">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Unidad" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="NombreUD" type="xs:string"/>
+                                                    <xs:element name="Tipo" type="xs:string"/>
+                                                    <xs:element name="Descripcion" type="xs:string"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
