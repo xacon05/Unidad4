@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Informe SYSTEM "informe_ventas.dtd">
+<Informe>
+    <Cabecera>
+        <Titulo>Ediciones Aranda Informe regional del ventas</Titulo>
+        <Descripcion>informe de ventas para las regiones Norte, Centro y Sur</Descripcion>
+        <Fecha>30/12/2009</Fecha>
+    </Cabecera>
+    <Datos>
+        <Region>
+            <Nombre>Norte</Nombre>
+            <Trimestre>
+                <Numero>1</Numero>
+                <LibrosVendidos>24000</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>2</Numero>
+                <LibrosVendidos>NO_INFO</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>3</Numero>
+                <LibrosVendidos>NO_INFO</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>4</Numero>
+                <LibrosVendidos>NO_INFO</LibrosVendidos>
+            </Trimestre>
+        </Region>
+        <Region>
+            <Nombre>Centro</Nombre>
+            <Trimestre>
+                <Numero>1</Numero>
+                <LibrosVendidos>24000</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>2</Numero>
+                <LibrosVendidos>27000</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>3</Numero>
+                <LibrosVendidos>31400</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>4</Numero>
+                <LibrosVendidos>40100</LibrosVendidos>
+            </Trimestre>
+        </Region>
+        <Region>
+            <Nombre>Sur</Nombre>
+            <Trimestre>
+                <Numero>1</Numero>
+                <LibrosVendidos>23434234</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>2</Numero>
+                <LibrosVendidos>38600</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>3</Numero>
+                <LibrosVendidos>16080</LibrosVendidos>
+            </Trimestre>
+            <Trimestre>
+                <Numero>4</Numero>
+                <LibrosVendidos>25000</LibrosVendidos>
+            </Trimestre>
+        </Region>
+    </Datos>
+</Informe>
