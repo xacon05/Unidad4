@@ -1,0 +1,74 @@
+{
+  "Informe": {
+    "Cabecera": {
+      "Titulo": "Ediciones Aranda Informe regional del ventas",
+      "Descripcion": "informe de ventas para las regiones Norte, Centro y Sur",
+      "Fecha": "30/12/2009"
+    },
+    "Datos": [
+      {
+        "Region": "Norte",
+        "Trimestres": [
+          {
+            "Numero": 1,
+            "LibrosVendidos": 24000
+          },
+          {
+            "Numero": 2,
+            "LibrosVendidos": "NO_INFO"
+          },
+          {
+            "Numero": 3,
+            "LibrosVendidos": "NO_INFO"
+          },
+          {
+            "Numero": 4,
+            "LibrosVendidos": "NO_INFO"
+          }
+        ]
+      },
+      {
+        "Region": "Centro",
+        "Trimestres": [
+          {
+            "Numero": 1,
+            "LibrosVendidos": 24000
+          },
+          {
+            "Numero": 2,
+            "LibrosVendidos": 27000
+          },
+          {
+            "Numero": 3,
+            "LibrosVendidos": 31400
+          },
+          {
+            "Numero": 4,
+            "LibrosVendidos": 40100
+          }
+        ]
+      },
+      {
+        "Region": "Sur",
+        "Trimestres": [
+          {
+            "Numero": 1,
+            "LibrosVendidos": 23434234
+          },
+          {
+            "Numero": 2,
+            "LibrosVendidos": 38600
+          },
+          {
+            "Numero": 3,
+            "LibrosVendidos": 16080
+          },
+          {
+            "Numero": 4,
+            "LibrosVendidos": 25000
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Modulos": [
+    {
+      "NombreModulo": "Programación",
+      "Contenidos": [
+        {
+          "NombreUD": "Introducción a la programación",
+          "Tipo": "Teórica",
+          "Descripcion": "Conceptos básicos de programación: variables, estructuras de control, etc."
+        },
+        {
+          "NombreUD": "Algoritmos y estructuras de datos",
+          "Tipo": "Práctica",
+          "Descripcion": "Estudio de algoritmos y estructuras de datos, como listas, pilas y colas."
+        }
+      ]
+    },
+    {
+      "NombreModulo": "Bases de Datos",
+      "Contenidos": [
+        {
+          "NombreUD": "Modelado de datos",
+          "Tipo": "Teórica",
+          "Descripcion": "Creación de modelos de datos con diagramas entidad-relación."
+        },
+        {
+          "NombreUD": "Gestión de bases de datos",
+          "Tipo": "Práctica",
+          "Descripcion": "Uso de sistemas gestores de bases de datos como MySQL o PostgreSQL."
+        }
+      ]
+    }
+  ]
+}
